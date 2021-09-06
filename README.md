@@ -1,4 +1,4 @@
-# ten_news
+# Ten_news
 
 A new Flutter project.
 
