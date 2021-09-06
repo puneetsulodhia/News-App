@@ -1,4 +1,4 @@
-# Ten_news
+# News App (Ten_news) 
 
 A new Flutter project.
 
